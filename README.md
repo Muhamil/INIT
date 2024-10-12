@@ -1,5 +1,5 @@
 # INIT
 
-# This simple program is an implementation of command
-# Using Click for command 
-# using socket to get IP address
+This simple program is an implementation of command
+1. Using Click for command 
+2. Using socket to get IP address
