@@ -1,4 +1,4 @@
-# INIT
+# NETSYS
 
  This simple program is an implementation of command
 1. Using Click for command 
