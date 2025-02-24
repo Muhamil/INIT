@@ -5,6 +5,7 @@ import socket
 def netsys():
     pass
 
+print("HAHAH")
 @netsys.command('myip')
 def myip():
     """This command retrieves and displays your local IP address."""
